@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+div {
+width: 60%;
+height: 80%;
+background-color: white;
+margin: auto;
+
+
+}
+
+/*First Section*/
+.Section1 p {
+    color: green;
+
+}
+
+/*Second Section*/
+.Section2 p, ul {
+    color: red;
+    font-style: oblique;
+
+}
+
+/*Third Section*/
+.Section3 p, h4 {
+    color: rgb(17, 20, 194);
+
+}
+
+body {
+    font-size: 14px;
+}
+
+    
+
+
